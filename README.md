@@ -1,2 +1,2 @@
 # Analyze International Debt Statistics
- datacamp project
+ datacamp SQL project
